@@ -1,0 +1,8 @@
+{
+    "name":"Market Notice",
+    "version":"0.1.0",
+    "description":"Notices you for events occuring around marketplace.",
+    "creator":"Hybris95",
+    "requires": ["SettingsManager","AudioAPI"],
+    "entry":"index.js"
+}
