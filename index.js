@@ -14,7 +14,7 @@ const Settings = new SettingsObject("MarketNotice", [
             new Setting.Toggle("Bazaar Sell", false),
 			new Setting.Toggle("Bazaar Buy", false),
 			new Setting.Toggle("AH Sell", false),
-			new Setting.Toggle("AH Bid", false)
+			new Setting.Toggle("AH Outbid", false)
         ]
     },
 	{
@@ -23,7 +23,7 @@ const Settings = new SettingsObject("MarketNotice", [
             new Setting.Toggle("Bazaar Sell", false),
 			new Setting.Toggle("Bazaar Buy", false),
 			new Setting.Toggle("AH Sell", false),
-			new Setting.Toggle("AH Bid", false)
+			new Setting.Toggle("AH Outbid", false)
 		]
 	},
 	{
